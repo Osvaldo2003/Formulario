@@ -1,0 +1,33 @@
+.caption{
+
+    display: flex;
+        flex-direction: column;
+        font: 1em sans-serif;
+        margin: 20px;
+        padding-left: 5%;
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    margin: 8%;
+}
+.form_Register{
+    width: 30%;
+    height: 345px;
+    border-radius: 35px;
+    background-color: #ffffff;
+    background: rgb(18, 87, 246);
+}
+.Colm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font: 1em sans-serif;
+    margin: 1px;
+    padding-left: 1%;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+}

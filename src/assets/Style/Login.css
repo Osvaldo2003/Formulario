@@ -1,0 +1,25 @@
+input{
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    height: 25px;
+}
+button{
+    background-color: rgb(0, 102, 255);
+}
+.formLogin{
+width: 35%;
+    height: 320px;
+    border-radius: 35px;
+    background-color: rgb(65, 121, 251);
+}
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+.botonLogin {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    height: 100px;
+}
